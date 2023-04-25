@@ -1,0 +1,51 @@
+body {
+ margin: 0;
+ padding:0;
+ font-family: 'Tajawal';
+ background-color: #d2d1cf !important;
+}
+section {
+  width: 100PX;
+  height: AUTO;
+  margin-top: 50px;
+  max-width:  100%; ;}
+:root{
+  --main-color : hsla(30, 59%, 45%, 0.902);
+  --orange-color:#b6afd6;
+  --btn-color : #d4bda5;
+  
+
+}
+section , footer , header{
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  max-width: 100%;
+  padding: 25px 0px;
+  margin-top: 50px;
+}
+a{
+  text-decoration: none !important;
+  
+}
+span{
+  display: block;
+}
+u1{
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style-type: none;
+
+}
+p{
+   line-height: 28px;
+}
+button{
+  text-align: center;
+  box-sizing: 1PX;
+  height: 40px;
+}
+
+
