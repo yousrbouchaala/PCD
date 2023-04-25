@@ -1,0 +1,138 @@
+nav{
+  background-color:white!important;
+  width: 100%;
+  height: 60% !important;
+  border-radius: 0px !important;
+  color: var(--orange-color) !important;
+  
+}
+
+
+nav .navbar-nav {
+margin-top: 15px;
+}
+
+nav .navbar-nav { 
+  color: #121011 !important;
+  font-weight:  700 ;
+  letter-spacing: 1px;
+  margin-right: 20px;
+  margin-left: auto;
+  font-size: 20px;
+  position: relative;
+  left: 40px;
+}
+.in {
+  position: relative;
+  left: 80px;
+}
+.hw{
+  position: relative;
+  left: 80px;
+}
+.med{
+  position: relative;
+  left: 80px;
+}
+.active{
+  position: relative;
+  left: 80px;
+}
+
+nav.navbar-nav a{
+  margin-top: 12px;
+  color:#100f10 !important;
+  font-weight: 900px;
+  letter-spacing: 1px;
+  margin-right: 200px;
+  transition: -3s ease all;
+  transition: 10ms ;
+  position: relative;
+  left: 100px;
+} 
+
+
+var .navbar-brand  a {
+color: hsla(30, 59%, 45%, 0.902) !important;
+font: weight 100px;
+letter-spacing: 1px;
+margin-bottom: 50px;
+margin-top: 30px;
+
+
+
+
+} 
+
+nav .navbar-nav .active {
+color: var(--main-color) !important ;
+
+
+}
+nav .navbar-nav  button{
+  background-color: var(--main-color);
+  border: 1px solid var(--main-color);
+  width: 150px ;
+  height: 40px;
+  color: white;
+  text-transform: uppercase;
+  font-size :15px;
+  margin-top: -3px ;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  
+}
+
+nav .navbar-nav contact-image {
+max-width: 50px;
+height: autos;
+}
+
+.buttons{
+
+    position: relative;
+    left: 80px;
+  
+
+}
+
+
+
+nav .navbar-nav button:hover{
+  background-color: rgb(158, 158, 161);
+}
+.bor{
+background-color: #0c0c0c;
+text-align: center;
+padding-left: calc(var(--bs-gutter-x) * .5);
+}
+.ff{
+  background-color: #d6d3d3;
+}
+.AA{
+  background-image: url('../../Asset/pexels-cottonbro-studio-5701545.jpg');
+  background-size: cover;
+  background-position: center ;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 700px;
+ margin-top: -70px;
+}
+#maladie{
+  
+    display: flex;
+      justify-content: center;
+      align-items: center;
+}
+#choose{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#patient-name {
+  text-transform: uppercase;
+}

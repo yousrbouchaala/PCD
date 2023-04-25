@@ -1,0 +1,46 @@
+
+.info{
+  background-image: url('../../Asset/aa.webp.png');
+  background-size: cover;
+  background-position: center left;
+  background-repeat: no-repeat;
+  width: 300%;
+  height: 400%;
+}
+
+
+.container{
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.btn app-store-btn
+{
+  background-color: var(--main-color);
+  border: 1px solid var(--main-color);
+  width: 130px ;
+  height: 40px;
+  color: white;
+  text-transform: uppercase;
+  font-size :19px;
+  margin-top: 1px ;
+  border-radius: 4px;
+
+
+ 
+
+}
+  .lead{
+       
+ 
+    padding: 30px;
+    width: 130%;
+    
+    background-color: #d2d1cf;
+   
+
+  }
+  .but{
+    position:inherit;
+  }
+ 
+

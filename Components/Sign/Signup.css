@@ -1,0 +1,75 @@
+.pp{
+    background: none;
+    border: 4px solid #d3a573;
+    border-radius: 10px;
+    color: rgb(12, 12, 12);
+    display: block;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 10px auto;
+    padding: 2em 4em;
+    position: relative;
+    text-transform: uppercase;
+    margin-top: 60px;
+
+
+}
+.bbb{
+  
+    background: none;
+    border: 4px solid #d3a573;
+    border-radius: 10px;
+    color: rgb(13, 13, 14);
+    display: block;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 10px auto;
+    padding: 2em 4em;
+    position: relative;
+    text-transform: uppercase;
+    margin-top: 50px;
+
+}
+.tiltle1{
+    text-align: center;
+    margin-top: 30px;
+   
+}
+.é2{
+    text-align: center;
+    margin-top: 20px;
+}
+.button-panel .button {
+    background: #f16272;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+    text-align: center;
+    text-transform: uppercase;
+    transition: background 0.3s ease-in-out;
+    width: 50%;
+}
+
+.button:hover {
+    background: #ee3e52;
+}
+
+.form-footer {
+    font-size: 1em;
+    padding: 2em 0;
+    text-align: center;
+}
+
+.form-footer a {
+    color: #8c8c8c;
+    text-decoration: none;
+    transition: border-color 0.3s;
+}
+
+.form-footer a:hover {
+    border-bottom: 1px dotted #8c8c8c;
+}

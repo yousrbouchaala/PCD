@@ -1,0 +1,65 @@
+header {
+   
+    background-color: #d2d1cf;
+}
+     
+h1{
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 100px;
+}
+
+.sub-title{
+    font-size: 110%;
+   
+}   
+.center {
+ 
+   
+   
+    margin: auto;
+    padding: 70px;
+    width: 50%;
+    height: 350px;
+    text-align: center;
+    margin-top: -200px;
+  
+   
+  
+    
+}
+.sub-title{
+    font-size: 19px;
+}
+h2{
+    
+    
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+
+    
+  }
+  .BUTTT{
+    margin-top: 30px;
+  }  
+
+  
+  button {
+    margin-top: 60px;
+    border-radius: 3px;
+   
+  }
+
+.CC{
+  background-image: url('../../Asset/pexels-tara-winstead-8384506.jpg');
+  background-size: cover;
+  background-position: center left;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 700px;
+  margin-top: -30px;
+} 
+  

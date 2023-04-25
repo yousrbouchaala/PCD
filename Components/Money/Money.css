@@ -1,0 +1,12 @@
+.aa{
+    background-color: #3431f3;
+}
+.eco{
+    background-image: url('../../Asset/pexels-karolina-grabowska-4475523.jpg');
+    background-size: cover;
+    background-position: center left;
+    background-repeat: no-repeat;
+    width: 120%;
+    height: 900px;
+   margin-top: -70px;
+}
